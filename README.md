@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm LiYunqing</h1>
+<h1 align="center">你好 👋，我是 LiYunqing</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=900&color=00C2FF&center=true&vCenter=true&width=920&lines=Code+%7C+Create+%7C+Evolve;Building+cool+things+every+day;Open+Source+Contributor+%26+Lifelong+Learner" alt="Typing SVG" />
@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 关于我
 
 - 🔭 Focus: turning ideas into useful products
 - 🌱 Current mission: keep shipping, keep learning
@@ -21,7 +21,7 @@
 
 ---
 
-## 📊 Real-time GitHub Insights
+## 📊 GitHub 实时数据
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LiYunqingli&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&include_all_commits=true&count_private=true" />
@@ -38,7 +38,7 @@
 
 ---
 
-## 🧠 Contribution Heatmap (Live)
+## 🧠 贡献热力图（实时）
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LiYunqingli&bg_color=0d1117&color=00c2ff&line=00c2ff&point=ffffff&area=true&hide_border=true" />
@@ -50,7 +50,7 @@
 
 ---
 
-## 🏆 Achievement Wall
+## 🏆 成就墙
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=LiYunqingli&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
@@ -58,7 +58,7 @@
 
 ---
 
-## 🔥 What I Have Been Doing
+## 🔥 我最近在做什么
 
 - ✅ 持续提交代码并维护项目迭代
 - ✅ 通过 PR、Issue、Discussion 参与协作
@@ -67,7 +67,7 @@
 
 ---
 
-## 🌐 Connect
+## 🌐 联系我
 
 <p align="center">
   <a href="https://github.com/LiYunqingli"><img src="https://img.shields.io/badge/GitHub-LiYunqingli-181717?style=for-the-badge&logo=github" /></a>
