@@ -21,18 +21,22 @@
 
 ---
 
+## 🛠️ 技术栈
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,python,java,arduino,linux,git" />
+</p>
+
+---
+
 ## 📊 GitHub 实时数据
 
-<p align="center">
+<p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LiYunqingli&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiYunqingli&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
-<p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=LiYunqingli&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j" />
-</p>
-
-<p align="center">
+<p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LiYunqingli&theme=tokyonight" />
 </p>
 
@@ -40,28 +44,14 @@
 
 ## 🧠 贡献热力图（实时）
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LiYunqingli&bg_color=0d1117&color=00c2ff&line=00c2ff&point=ffffff&area=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LiYunqingli&theme=tokyonight" alt="提交最多语言" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LiYunqingli&theme=tokyonight&utcOffset=8" alt="高效开发时段" />
-</p>
-
----
-
-## 🏆 成就墙
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LiYunqingli&theme=tokyonight" alt="综合成就统计" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LiYunqingli&theme=tokyonight" alt="仓库语言分布" />
 </p>
 
 ---
 
 ## 🌐 联系我
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/LiYunqingli"><img src="https://img.shields.io/badge/GitHub-LiYunqingli-181717?style=for-the-badge&logo=github" /></a>
 </p>
