@@ -1,16 +1,74 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm LiYunqing</h1>
 
-<!--
-**LiYunqingli/LiYunqingli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=900&color=00C2FF&center=true&vCenter=true&width=920&lines=Code+%7C+Create+%7C+Evolve;Building+cool+things+every+day;Open+Source+Contributor+%26+Lifelong+Learner" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/LiYunqingli"><img src="https://img.shields.io/github/followers/LiYunqingli?label=Followers&style=for-the-badge&logo=github&color=00C2FF" /></a>
+  <a href="https://github.com/LiYunqingli"><img src="https://komarev.com/ghpvc/?username=LiYunqingli&style=for-the-badge&color=0ea5e9" alt="Profile views" /></a>
+  <a href="https://github.com/LiYunqingli?tab=repositories"><img src="https://img.shields.io/badge/Repos-Live_Data-0ea5e9?style=for-the-badge&logo=github" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🔭 Focus: turning ideas into useful products
+- 🌱 Current mission: keep shipping, keep learning
+- 🤝 Open to collaboration on interesting open-source projects
+- ⚡ Motto: Move fast, but build things that last
+
+---
+
+## 📊 Real-time GitHub Insights
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LiYunqingli&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiYunqingli&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://streak-stats.demolab.com?user=LiYunqingli&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LiYunqingli&theme=tokyonight" />
+</p>
+
+---
+
+## 🧠 Contribution Heatmap (Live)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LiYunqingli&bg_color=0d1117&color=00c2ff&line=00c2ff&point=ffffff&area=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LiYunqingli/LiYunqingli/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+## 🏆 Achievement Wall
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LiYunqingli&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+</p>
+
+---
+
+## 🔥 What I Have Been Doing
+
+- ✅ 持续提交代码并维护项目迭代
+- ✅ 通过 PR、Issue、Discussion 参与协作
+- ✅ 在不同技术方向做实验并沉淀可复用方案
+- ✅ 不断优化工程化能力与产品交付效率
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+  <a href="https://github.com/LiYunqingli"><img src="https://img.shields.io/badge/GitHub-LiYunqingli-181717?style=for-the-badge&logo=github" /></a>
+</p>
