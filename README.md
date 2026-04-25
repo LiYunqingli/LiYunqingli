@@ -1,7 +1,7 @@
 <h1 align="center">你好 👋，我是 LiYunqing</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=900&color=00C2FF&center=true&vCenter=true&width=920&lines=Code+%7C+Create+%7C+Evolve;Building+cool+things+every+day;Open+Source+Contributor+%26+Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=900&color=00C2FF&center=true&vCenter=true&width=920&lines=Code+%7C+Create+%7C+Evolve;Building+cool+things+every+day;Open+Source+Contributor+%26+Lifelong+Learner" alt="打字机效果" />
 </p>
 
 <p align="center">
@@ -14,10 +14,10 @@
 
 ## 🚀 关于我
 
-- 🔭 Focus: turning ideas into useful products
-- 🌱 Current mission: keep shipping, keep learning
-- 🤝 Open to collaboration on interesting open-source projects
-- ⚡ Motto: Move fast, but build things that last
+- 🔭 专注把想法变成真正可用的产品
+- 🌱 当前目标：持续交付，持续学习
+- 🤝 欢迎一起共建有趣的开源项目
+- ⚡ 信条：快速前进，也要把东西做扎实
 
 ---
 
@@ -45,7 +45,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LiYunqingli/LiYunqingli/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/LiYunqingli/LiYunqingli/output/github-contribution-grid-snake.svg" alt="贪吃蛇贡献图动画" />
 </p>
 
 ---
