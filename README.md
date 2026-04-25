@@ -14,10 +14,10 @@
 
 ## 🚀 关于我
 
-- 🔭 专注把想法变成真正可用的产品
-- 🌱 当前目标：持续交付，持续学习
-- 🤝 欢迎一起共建有趣的开源项目
-- ⚡ 信条：快速前进，也要把东西做扎实
+- 🔭 深耕计算机全栈开发，专注落地创新项目与实用工具产品
+- 🌱 当前目标：备考自考升学、深耕AI Agent与网络底层技术、冲刺学科竞赛
+- 🤝 热爱开源协作，欢迎交流技术、共建优质开源项目
+- ⚡ 信条：探索即跃升的全息信标
 
 ---
 
@@ -45,7 +45,8 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LiYunqingli/LiYunqingli/output/github-contribution-grid-snake.svg" alt="贪吃蛇贡献图动画" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LiYunqingli&theme=tokyonight" alt="提交最多语言" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LiYunqingli&theme=tokyonight&utcOffset=8" alt="高效开发时段" />
 </p>
 
 ---
@@ -53,7 +54,8 @@
 ## 🏆 成就墙
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LiYunqingli&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LiYunqingli&theme=tokyonight" alt="综合成就统计" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LiYunqingli&theme=tokyonight" alt="仓库语言分布" />
 </p>
 
 ---
